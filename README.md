@@ -15,3 +15,5 @@ Dentre minhas atividades destaco:
 • Formação sólida na construção de pipelines e workflows em ferramentas de ingestão de dados;
 • Assessoro no entendimento sobre dados e o uso correto de ferramentas a serem implantadas;
 • Ministro aulas em disciplinas de pós-graduação presencial e em educação à distância.
+
+![image](https://user-images.githubusercontent.com/85241884/152814695-024fc979-8668-4b91-9741-7b854ae4bfcb.png)
