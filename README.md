@@ -17,3 +17,6 @@ Dentre minhas atividades destaco:
 • Ministro aulas em disciplinas de pós-graduação presencial e em educação à distância.
 
 ![image](https://user-images.githubusercontent.com/85241884/152814695-024fc979-8668-4b91-9741-7b854ae4bfcb.png)
+https://www.youtube.com/c/GrimaldoOliveira
+![image](https://user-images.githubusercontent.com/85241884/152815658-42ea0926-357b-4feb-9c13-58bb471d2541.png)
+https://www.linkedin.com/in/grimaldo/
