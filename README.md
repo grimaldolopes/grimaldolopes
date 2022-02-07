@@ -2,19 +2,30 @@ Carreira desenvolvida na área de Tecnologia, com gestão de equipes e projetos 
 
 **Competências Técnicas: 
 • Data Discovery – Tableau, Power BI, Qlik Sense, Microstrategy, Google Data Studio, Oracle Data Visualization;
+
 • Business Intelligence – Data Modeling For Dw– Star Schema/Snow Flake, Sql, Olap, Pl/Sql;
+
 • Data Integration – Talend, Oracle Warehouse Builder;
+
 • Machine Learning – Orange Data Science, Data Mining – Weka; R Language, R Markdown, R GGPLOT2 ; Shell Script;
+
 • Database – Oracle, Mysql, Postgresql;
+
 • Big Data – Database Search e Engine – Elasticsearch, Logstash, Kibana, DSL (Domain Specific Language), Databricks, Pyspark, NiFi.
+
 • Escritor do livro: “BI Como Deve Ser – O Guia em Definitivo”
+
 
 Dentre minhas atividades destaco:
 
 • Coordenação, arquitetura e desenvolvimento de projetos de dados, principalmente em Business Intelligence, analytics;
+
 • Formação sólida na construção de pipelines e workflows em ferramentas de ingestão de dados;
+
 • Assessoro no entendimento sobre dados e o uso correto de ferramentas a serem implantadas;
+
 • Ministro aulas em disciplinas de pós-graduação presencial e em educação à distância.
+
 
 ![image](https://user-images.githubusercontent.com/85241884/152814695-024fc979-8668-4b91-9741-7b854ae4bfcb.png)
 
