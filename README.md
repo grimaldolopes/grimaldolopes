@@ -10,3 +10,8 @@ Carreira desenvolvida na área de Tecnologia, com gestão de equipes e projetos 
 • Escritor do livro: “BI Como Deve Ser – O Guia em Definitivo”
 
 Dentre minhas atividades destaco:
+
+• Coordenação, arquitetura e desenvolvimento de projetos de dados, principalmente em Business Intelligence, analytics;
+• Formação sólida na construção de pipelines e workflows em ferramentas de ingestão de dados;
+• Assessoro no entendimento sobre dados e o uso correto de ferramentas a serem implantadas;
+• Ministro aulas em disciplinas de pós-graduação presencial e em educação à distância.
