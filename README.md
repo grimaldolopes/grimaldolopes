@@ -1,6 +1,7 @@
 Carreira desenvolvida na área de Tecnologia, com gestão de equipes e projetos de Business Intelligence (sendo referência técnica e analítica), contemplando todo o processo de tratamento, análise e integração dos dados até a entrega, atuando também no planejamento estratégico e análise de negócios, sendo responsável pela promoção da cultura de data driven, ensinando e implementando as melhores práticas de mercado.
 
-**Competências Técnicas: 
+Competências Técnicas: 
+
 • Data Discovery – Tableau, Power BI, Qlik Sense, Microstrategy, Google Data Studio, Oracle Data Visualization;
 
 • Business Intelligence – Data Modeling For Dw– Star Schema/Snow Flake, Sql, Olap, Pl/Sql;
