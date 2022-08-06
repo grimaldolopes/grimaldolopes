@@ -2,7 +2,7 @@ Carreira desenvolvida na área de Tecnologia, com gestão de equipes e projetos 
 
 # Competências Técnicas: 
 
-• Data Discovery – Tableau, Power BI, Qlik Sense, Microstrategy, Google Data Studio, Oracle Data Visualization;
+• Data Discovery – METABASE, Tableau, Power BI, Qlik Sense, Microstrategy, Google Data Studio, Oracle Data Visualization;
 
 • Business Intelligence – Data Modeling For Dw– Star Schema/Snow Flake, Sql, Olap, Pl/Sql;
 
