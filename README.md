@@ -14,7 +14,7 @@ Carreira desenvolvida na área de Tecnologia, com gestão de equipes e projetos 
 
 • Big Data – Database Search e Engine – Elasticsearch, Logstash, Kibana, DSL (Domain Specific Language), Databricks, Pyspark, NiFi.
 
-• Escritor do livro: “BI Como Deve Ser – O Guia em Definitivo”
+• Escritor do livro: “BI Como Deve Ser – O Guia em Definitivo - www.bicomodeveser.com.br”
 
 
 # Dentre minhas atividades destaco:
