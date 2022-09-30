@@ -16,7 +16,7 @@ Carreira desenvolvida na área de Tecnologia, com gestão de equipes e projetos 
 
 • Escritor do livro: “BI Como Deve Ser – O Guia em Definitivo - https://www.bicomodeveser.com.br ”
 
-• Treinamento de Formação: “BI PRO - https://www.bipro.com.br”
+• Treinamento de Formação: “BI PRO - https://www.bipro.com.br ”
 
 
 
