@@ -1,5 +1,9 @@
 Carreira desenvolvida na área de Tecnologia, com gestão de equipes e projetos de Business Intelligence (sendo referência técnica e analítica), contemplando todo o processo de tratamento, análise e integração dos dados até a entrega, atuando também no planejamento estratégico e análise de negócios, sendo responsável pela promoção da cultura de data driven, ensinando e implementando as melhores práticas de mercado.
 
+# Sobre todas as ferramentas aqui apresentadas, há um Ebook descrevendo todas elas
+
+• Ebook - TODOS os curso de dados - https://is.gd/CURSOSDADOSGRIMALDOOLIVEIRA ;
+
 # Competências Técnicas: 
 
 • Data Discovery – METABASE, Tableau, Power BI, Qlik Sense, Microstrategy, Google Data Studio, Oracle Data Visualization;
@@ -17,6 +21,7 @@ Carreira desenvolvida na área de Tecnologia, com gestão de equipes e projetos 
 • Escritor do livro: “BI Como Deve Ser – O Guia em Definitivo - https://www.bicomodeveser.com.br ”
 
 • Treinamento de Formação: “BI PRO - https://www.bipro.com.br ”
+
 
 
 
