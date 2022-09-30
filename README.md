@@ -4,15 +4,15 @@ Carreira desenvolvida na área de Tecnologia, com gestão de equipes e projetos 
 
 • Data Discovery – METABASE, Tableau, Power BI, Qlik Sense, Microstrategy, Google Data Studio, Oracle Data Visualization;
 
-• Business Intelligence – Data Modeling For Dw– Star Schema/Snow Flake, Sql, Olap, Pl/Sql;
+• Business Intelligence – Data Modeling For Dw–Star Schema/Snow Flake, Sql, Olap, Pl/Sql;
 
-• Data Integration – Talend, Oracle Warehouse Builder;
+• Data Integration – Talend, Oracle Warehouse Builder, APACHE HOP;
 
 • Machine Learning – Orange Data Science, Data Mining – Weka; R Language, R Markdown, R GGPLOT2 ; Shell Script;
 
 • Database – Oracle, Mysql, Postgresql;
 
-• Big Data – Database Search e Engine – Elasticsearch, Logstash, Kibana, DSL (Domain Specific Language), Databricks, Pyspark, NiFi.
+• Big Data – Database Search e Engine – Elasticsearch, Logstash, Kibana, DSL (Domain Specific Language), Databricks, Databricks Delta Lake Pyspark, NiFi.
 
 • Escritor do livro: “BI Como Deve Ser – O Guia em Definitivo - www.bicomodeveser.com.br”
 
