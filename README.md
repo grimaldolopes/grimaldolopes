@@ -2,7 +2,7 @@ Carreira desenvolvida na área de Tecnologia, com gestão de equipes e projetos 
 
 # Sobre todas as ferramentas aqui apresentadas, há um Ebook descrevendo todas elas
 
-• Ebook - TODOS os curso de dados - https://is.gd/CURSOSDADOSGRIMALDOOLIVEIRA ;
+• Ebook - TODOS os cursos de dados - https://is.gd/CURSOSDADOSGRIMALDOOLIVEIRA ;
 
 # Competências Técnicas: 
 
