@@ -43,3 +43,7 @@ https://www.youtube.com/c/GrimaldoOliveira
 ![image](https://user-images.githubusercontent.com/85241884/152815658-42ea0926-357b-4feb-9c13-58bb471d2541.png)
 
 https://www.linkedin.com/in/grimaldo/
+
+![image](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Udemy_logo.svg/220px-Udemy_logo.svg.png)
+
+ https://www.udemy.com/user/grimaldo-lopes-de-oliveira/
