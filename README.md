@@ -2,7 +2,7 @@ Carreira desenvolvida na área de Tecnologia, com gestão de equipes e projetos 
 
 # Sobre todas as ferramentas aqui apresentadas, há um Ebook descrevendo todas elas
 
-• Ebook - TODOS os cursos de dados - https://is.gd/CURSOSDADOSGRIMALDOOLIVEIRA ;
+• Ebook - TODOS os cursos de dados - https://is.gd/CURSOSDADOSGRIMALDOOLIVEIRA 
 
 # Competências Técnicas: 
 
@@ -16,7 +16,7 @@ Carreira desenvolvida na área de Tecnologia, com gestão de equipes e projetos 
 
 • Database – Oracle, Mysql, Postgresql;
 
-• Big Data – Database Search e Engine – Elasticsearch, Logstash, Kibana, DSL (Domain Specific Language), Databricks, Databricks Delta Lake Pyspark, NiFi.
+• Big Data – Database Search e Engine – Elasticsearch, Logstash, Kibana, DSL (Domain Specific Language), Databricks, Databricks Delta Lake, Pyspark, NiFi.
 
 • Escritor do livro: “BI Como Deve Ser – O Guia em Definitivo - https://www.bicomodeveser.com.br ”
 
