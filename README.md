@@ -12,6 +12,8 @@ Carreira desenvolvida na área de Tecnologia, com gestão de equipes e projetos 
 
 • Data Integration – Talend, Oracle Warehouse Builder, APACHE HOP;
 
+• Data Preparation - Alteryx TRIFACTA
+
 • Machine Learning – Orange Data Science, Data Mining – Weka; R Language, R Markdown, R GGPLOT2 ; Shell Script;
 
 • Database – Oracle, Mysql, Postgresql;
