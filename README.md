@@ -1,5 +1,8 @@
 Carreira desenvolvida na área de Tecnologia, com gestão de equipes e projetos de Business Intelligence (sendo referência técnica e analítica), contemplando todo o processo de tratamento, análise e integração dos dados até a entrega, atuando também no planejamento estratégico e análise de negócios, sendo responsável pela promoção da cultura de data driven, ensinando e implementando as melhores práticas de mercado.
 
+# Destaque no ano de 2023 pela Gama Academy como um dos 50 profissionais de dados/BI com destaque no Brasil
+![WhatsApp Image 2023-02-03 at 16 41 37](https://user-images.githubusercontent.com/85241884/217805143-fc8a984e-e3e2-4bfa-9cad-1d7d41d333e5.jpeg)
+
 # Sobre todas as ferramentas aqui apresentadas, há um Ebook descrevendo todas elas
 
 • Ebook - TODOS os cursos de dados - https://is.gd/CURSOSDADOSGRIMALDOOLIVEIRA 
