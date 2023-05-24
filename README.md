@@ -13,7 +13,7 @@ Carreira desenvolvida na área de Tecnologia, com gestão de equipes e projetos 
 
 • Business Intelligence – Data Modeling For Dw–Star Schema/Snow Flake, Sql, Olap, Pl/Sql;
 
-• Data Integration – Talend, Oracle Warehouse Builder, APACHE HOP;
+• Data Integration – Pentaho PDI,Talend, Oracle Warehouse Builder, APACHE HOP;
 
 • Data Preparation - Alteryx TRIFACTA
 
