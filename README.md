@@ -11,6 +11,8 @@ Carreira desenvolvida na área de Tecnologia, com gestão de equipes e projetos 
 
 • Data Discovery – APACHE Superset, METABASE, Tableau, Power BI, Qlik Sense, Microstrategy, Google Data Studio, Oracle Data Visualization;
 
+• Data Lake - Dremio
+
 • Business Intelligence – Data Modeling For Dw–Star Schema/Snow Flake, Sql, Olap, Pl/Sql;
 
 • Data Integration – Pentaho PDI,Talend, Oracle Warehouse Builder, APACHE HOP;
